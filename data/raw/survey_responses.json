@@ -1,0 +1,1626 @@
+[
+  {
+    "_id": {
+      "$oid": "69bd7d0d2e936b062524caf8"
+    },
+    "birthDate": "1962-01-17",
+    "locationState": "SP",
+    "locationCity": "São Paulo",
+    "specialties": [
+      "Pediatria",
+      "Infectologia"
+    ],
+    "yearsOfPractice": 40,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "3"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "2"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "5"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "5"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "5"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "5"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "5"
+      }
+    ],
+    "gender": "female",
+    "category": "specialist",
+    "workplaces": [
+      "teaching_hospital"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69bd7ee32e936b062524cafa"
+    },
+    "birthDate": "1982-04-20",
+    "locationState": "SP",
+    "locationCity": "Marília",
+    "specialties": [
+      "Dermatologia"
+    ],
+    "yearsOfPractice": 10,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "1"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "1"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "4"
+      }
+    ],
+    "gender": "female",
+    "category": "specialist",
+    "workplaces": [
+      "private_clinic"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69bd81662e936b062524cafb"
+    },
+    "birthDate": "1972-06-19",
+    "locationState": "SP",
+    "locationCity": "São Paulo",
+    "specialties": [
+      "Geriatria"
+    ],
+    "yearsOfPractice": 26,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "1"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "5"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "3"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "5"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "5"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "4"
+      }
+    ],
+    "gender": "female",
+    "category": "specialist",
+    "workplaces": [
+      "public_hospital",
+      "private_clinic"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69bda2a42e936b062524cafc"
+    },
+    "birthDate": "1982-11-20",
+    "locationState": "SP",
+    "locationCity": "São Paulo",
+    "specialties": [
+      "Ginecologia e Obstetrícia"
+    ],
+    "yearsOfPractice": 12,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "3"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "2"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "4"
+      }
+    ],
+    "gender": "female",
+    "category": "specialist",
+    "workplaces": [
+      "teaching_hospital"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69c2fc212e936b062524cafd"
+    },
+    "birthDate": "1972-02-25",
+    "locationState": "SP",
+    "locationCity": "São Paulo",
+    "specialties": [
+      "Psiquiatria"
+    ],
+    "yearsOfPractice": 30,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "3"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "2"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "4"
+      }
+    ],
+    "gender": "female",
+    "category": "specialist",
+    "workplaces": [
+      "teaching_hospital",
+      "private_clinic"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69c2fcb22e936b062524cafe"
+    },
+    "birthDate": "1998-07-25",
+    "locationState": "SP",
+    "locationCity": "São Paulo",
+    "specialties": [
+      "Psiquiatria"
+    ],
+    "yearsOfPractice": 4,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "4"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "1"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "3"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "2"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "4"
+      }
+    ],
+    "gender": "female",
+    "category": "specialist",
+    "workplaces": [
+      "public_hospital",
+      "teaching_hospital",
+      "private_clinic"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69c435a02e936b062524caff"
+    },
+    "birthDate": "1994-09-08",
+    "locationState": "SP",
+    "locationCity": "São Paulo",
+    "specialties": [
+      "Psiquiatria"
+    ],
+    "yearsOfPractice": 3,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "1"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "1"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "5"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "4"
+      }
+    ],
+    "gender": "male",
+    "category": "specialist",
+    "workplaces": [
+      "public_hospital",
+      "private_clinic"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69c43ddb2e936b062524cb00"
+    },
+    "birthDate": "1979-05-06",
+    "locationState": "SP",
+    "locationCity": "São Paulo",
+    "specialties": [
+      "Psiquiatria"
+    ],
+    "yearsOfPractice": 20,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "3"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "1"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "4"
+      }
+    ],
+    "gender": "female",
+    "category": "specialist",
+    "workplaces": [
+      "private_hospital",
+      "public_hospital",
+      "teaching_hospital",
+      "private_clinic"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69cb11a62e936b062524cb03"
+    },
+    "birthDate": "1970-02-27",
+    "locationState": "SP",
+    "locationCity": "Campinas",
+    "specialties": [
+      "Psiquiatria"
+    ],
+    "yearsOfPractice": 34,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "2"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "5"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "5"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "3"
+      }
+    ],
+    "gender": "male",
+    "category": "specialist",
+    "workplaces": [
+      "teaching_hospital",
+      "private_clinic"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69cb29912e936b062524cb04"
+    },
+    "birthDate": "1965-09-07",
+    "locationState": "SP",
+    "locationCity": "São Paulo",
+    "specialties": [
+      "Reumatologia"
+    ],
+    "yearsOfPractice": 34,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "3"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "2"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "1"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "1"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "1"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "1"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "1"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "2"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "2"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "2"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "1"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "1"
+      }
+    ],
+    "gender": "female",
+    "category": "specialist",
+    "workplaces": [
+      "private_clinic"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69cbbc372e936b062524cb05"
+    },
+    "birthDate": "1996-02-01",
+    "locationState": "SP",
+    "locationCity": "São Paulo",
+    "specialties": [
+      "Psiquiatria"
+    ],
+    "yearsOfPractice": 2,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "3"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "4"
+      }
+    ],
+    "gender": "male",
+    "category": "specialist",
+    "workplaces": [
+      "public_hospital",
+      "private_clinic"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69d48d03b3ae263931e5517d"
+    },
+    "birthDate": "1983-07-06",
+    "locationState": "SP",
+    "locationCity": "São Paulo",
+    "specialties": [
+      "Radiologia e Diagnóstico por Imagem"
+    ],
+    "yearsOfPractice": 15,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "3"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "3"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "3"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "4"
+      }
+    ],
+    "gender": "male",
+    "category": "specialist",
+    "workplaces": [
+      "private_hospital"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69d520d1b3ae263931e5517e"
+    },
+    "birthDate": "1990-04-20",
+    "locationState": "SP",
+    "locationCity": "São Paulo",
+    "specialties": [
+      "Radiologia e Diagnóstico por Imagem"
+    ],
+    "yearsOfPractice": 8,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "1"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "3"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "3"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "5"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "2"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "4"
+      }
+    ],
+    "gender": "male",
+    "category": "specialist",
+    "workplaces": [
+      "private_hospital"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69d8c839b3ae263931e5517f"
+    },
+    "birthDate": "1970-07-16",
+    "locationState": "SP",
+    "locationCity": "São Paulo",
+    "specialties": [
+      "Coloproctologia"
+    ],
+    "yearsOfPractice": 30,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "1"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "1"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "4"
+      }
+    ],
+    "gender": "male",
+    "category": "specialist",
+    "workplaces": [
+      "private_hospital",
+      "public_hospital",
+      "teaching_hospital",
+      "private_clinic"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e0fac1b3ae263931e55181"
+    },
+    "birthDate": "1978-01-13",
+    "locationState": "SP",
+    "locationCity": "São Paulo",
+    "specialties": [
+      "Neurologia"
+    ],
+    "yearsOfPractice": 20,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "4"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "3"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "3"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "3"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "2"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "1"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "2"
+      }
+    ],
+    "gender": "male",
+    "category": "specialist",
+    "workplaces": [
+      "private_hospital",
+      "teaching_hospital",
+      "private_clinic"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e16208b3ae263931e55182"
+    },
+    "birthDate": "1969-09-19",
+    "locationState": "ES",
+    "locationCity": "Vila Velha",
+    "specialties": [
+      "Endocrinologia e Metabologia"
+    ],
+    "yearsOfPractice": 25,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "1"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "1"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "3"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "3"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "3"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "3"
+      }
+    ],
+    "gender": "female",
+    "category": "specialist",
+    "workplaces": [
+      "private_clinic"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e25633b3ae263931e55183"
+    },
+    "birthDate": "1973-08-07",
+    "locationState": "CE",
+    "locationCity": "Fortaleza",
+    "specialties": [
+      "Anestesiologia"
+    ],
+    "yearsOfPractice": 25,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "5"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "3"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "3"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "3"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "2"
+      }
+    ],
+    "gender": "female",
+    "category": "specialist",
+    "workplaces": [
+      "public_hospital"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e4d6cbb3ae263931e55184"
+    },
+    "birthDate": "1992-09-29",
+    "locationState": "SP",
+    "locationCity": "São Paulo",
+    "specialties": [
+      "Dermatologia"
+    ],
+    "yearsOfPractice": 3,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "2"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "4"
+      }
+    ],
+    "gender": "female",
+    "category": "specialist",
+    "workplaces": [
+      "private_clinic"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e4e4e1b3ae263931e55185"
+    },
+    "birthDate": "1987-04-30",
+    "locationState": "MG",
+    "locationCity": "Conselheiro Lafaiete",
+    "specialties": [
+      "Medicina do Trabalho"
+    ],
+    "yearsOfPractice": 13,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "3"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "2"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "3"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "3"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "3"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "2"
+      }
+    ],
+    "gender": "male",
+    "category": "specialist",
+    "workplaces": [
+      "private_hospital"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e4fe94b3ae263931e55186"
+    },
+    "birthDate": "1987-11-13",
+    "locationState": "MG",
+    "locationCity": "Conselheiro Lafaiete",
+    "specialties": [
+      "Ortopedia e Traumatologia"
+    ],
+    "yearsOfPractice": 11,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "1"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "1"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "2"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "5"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "4"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "4"
+      }
+    ],
+    "gender": "male",
+    "category": "specialist",
+    "workplaces": [
+      "private_hospital",
+      "public_hospital",
+      "private_clinic"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69eb9b4fb3ae263931e55189"
+    },
+    "birthDate": "2001-11-24",
+    "locationState": "MG",
+    "locationCity": "Conselheiro Lafaiete",
+    "specialties": [
+      "Clínica Médica"
+    ],
+    "yearsOfPractice": 1,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "3"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "2"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "5"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "5"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "5"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "5"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "5"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "5"
+      }
+    ],
+    "gender": "female",
+    "category": "resident",
+    "workplaces": [
+      "private_hospital"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69ebb298b3ae263931e5518a"
+    },
+    "birthDate": "1953-03-11",
+    "locationState": "MG",
+    "locationCity": "Conselheiro Lafaiete",
+    "specialties": [
+      "Ginecologia e Obstetrícia"
+    ],
+    "yearsOfPractice": 45,
+    "preResearch": [
+      {
+        "questionId": "pre-usage",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-knowledge",
+        "answer": "2"
+      },
+      {
+        "questionId": "pre-tools",
+        "answer": "2"
+      }
+    ],
+    "research": [
+      {
+        "questionId": "user-aware-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "context-aware-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "objectivity-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "understandability-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "informative-fig1",
+        "answer": "3"
+      },
+      {
+        "questionId": "user-aware-fig2",
+        "answer": "3"
+      },
+      {
+        "questionId": "context-aware-fig2",
+        "answer": "3"
+      },
+      {
+        "questionId": "objectivity-fig2",
+        "answer": "3"
+      },
+      {
+        "questionId": "understandability-fig2",
+        "answer": "3"
+      },
+      {
+        "questionId": "informative-fig2",
+        "answer": "3"
+      }
+    ],
+    "gender": "male",
+    "category": "specialist",
+    "workplaces": [
+      "public_hospital"
+    ]
+  }
+]
